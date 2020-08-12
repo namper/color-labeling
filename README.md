@@ -1,2 +1,2 @@
 # color-labeling
-Image Color Detection
+Image color classification
